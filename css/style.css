@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 body {
-  background: #230202;
+  background: #ffffff;
   font-family: "Lexend";
   font-size: 1rem;
 }
@@ -29,7 +29,7 @@ li {
   margin-right: 1rem;
 }
 h1 {
-  color: #db8076;
+  color: #000000;
   margin-bottom: 0.5rem;
 }
 
